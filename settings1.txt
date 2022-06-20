@@ -1,0 +1,1 @@
+{"refs": 0, "quant": 7, "date_p": 8, "date_pr": 9, "valor_u": 10, "valor_t": 12, "valor_icms": 19, "icms_st": 20, "ipi": 21, "oper_t": 22, "um": 23, "cst": 24}
